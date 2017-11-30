@@ -1,4 +1,4 @@
-# alpha-1
+# Alpha - O
 
 CHOWAT - Alpha
 
